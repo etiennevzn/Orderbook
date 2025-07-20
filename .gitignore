@@ -1,0 +1,41 @@
+# Build directories
+build/
+Debug/
+Release/
+x64/
+x86/
+out/
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.sln.docstates
+
+# Compiled files
+*.exe
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.exp
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Dependencies (if using submodules instead)
+googletest/
+vcpkg/
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
