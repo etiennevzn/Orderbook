@@ -180,4 +180,4 @@ R 1 1 0                           # Expected result: 1 total, 1 bid, 0 ask
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
