@@ -1,6 +1,6 @@
-# Orderbook Implementation
+# Limit Order Book & Matching Engine
 
-A modern, thread-safe orderbook implementation in C++20 for financial trading systems.
+A modern, thread-safe order book implementation in C++20 for financial trading systems.
 
 ## Features
 
